@@ -1,1 +1,2 @@
-123
+// גלוסעמ 123
+System.out.printl("Good bye!");
